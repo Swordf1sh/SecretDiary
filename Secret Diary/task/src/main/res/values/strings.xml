@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Secret Diary</string>
+    <string name="diary_hint">Dear Diary...</string>
+    <string name="save_button">Save</string>
+    <string name="empty_error">Empty or blank input cannot be saved</string>
+    <string name="undo_button">Undo</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title">Secret Diary</string>
+    <string name="pin_hint">Enter PIN</string>
+    <string name="btn_login">Log In</string>
+    <string name="wrong_pin">Wrong PIN!</string>
+</resources>
